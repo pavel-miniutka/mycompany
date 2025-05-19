@@ -24,7 +24,7 @@
     <name>MyCompany</name>
 
     <scm>
-        <developerConnection>scm:git:ssh://git@github.com:pavel-miniutka/mycompany.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/pavel-miniutka/mycompany.git</developerConnection>
     </scm>
 
     <properties>
