@@ -23,6 +23,10 @@
     <packaging>jar</packaging>
     <name>MyCompany</name>
 
+    <scm>
+        <developerConnection>scm:git:ssh://git@github.com:pavel-miniutka/mycompany.git</developerConnection>
+    </scm>
+
     <properties>
         <lsfusion.public.repo>https://repo.lsfusion.org/nexus/repository/publictest</lsfusion.public.repo>
         <deploy.releases.repo>https://repo.lsfusion.org/nexus/repository/releasestest</deploy.releases.repo>
